@@ -32,8 +32,7 @@ class MysqlPipeline:
         self.cursor = self.conn.cursor()
 
     def process_item(self, item, spider):
-        sql = f"insert into RoomRate values({item['RoomTypeID']},\'{item['RoomTypeName']}\',\'{item['RoomTypeCode']}\',{item['NewCube'][0]},{item['SilverCube'][0]},{item['GoldCube'][0]},{item['PlatinumCube'][0]},{item['BlackCube'][0]},{item['AllNight'][0]},\'{item['Remarks']}\')"
-        print(sql)
+        sql = f"insert into RoomRate values(0,{item['RoomTypeID']},\'{item['RoomTypeName']}\',\'{item['RoomTypeCode']}\',{item['NewCube'][0]},{item['SilverCube'][0]},{item['GoldCube'][0]},{item['PlatinumCube'][0]},{item['BlackCube'][0]},{item['AllNight'][0]},\'{item['Remarks']}\',\'{item['accbegin']}\',\'{item['accend']}\')"
         self.cursor.execute(sql)
         self.conn.commit()
 

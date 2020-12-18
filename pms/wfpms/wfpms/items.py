@@ -18,6 +18,8 @@ class RateItem(scrapy.Item):
     BlackCube = scrapy.Field()
     AllNight = scrapy.Field()
     Remarks = scrapy.Field()
+    accbegin = scrapy.Field()
+    accend = scrapy.Field()
 
 
 class TokenItem(scrapy.Item):

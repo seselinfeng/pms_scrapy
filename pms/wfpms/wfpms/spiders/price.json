@@ -1,1 +1,1434 @@
-{"State": 200, "ErrMsg": "", "Data": [{"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 318, "RoomTypeName": "Switch影院大床立方", "RoomTypeCode": "SD", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 84.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 2764, "RoomTypeName": "标准大床房", "RoomTypeCode": "SK", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 1.0, "ProRate": 1.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 1.0, "ProRate": 1.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 1.0, "ProRate": 1.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 1.0, "ProRate": 1.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 1.0, "ProRate": 1.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 1.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 1.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 0.0, "ProRate": 1.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 1.0, "ProRate": 1.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 3.0, "ProRate": 3.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 2763, "RoomTypeName": "标准双床房", "RoomTypeCode": "ST", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 70.0, "ProRate": 70.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 63.0, "ProRate": 70.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 63.0, "ProRate": 70.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 60.0, "ProRate": 70.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 60.0, "ProRate": 70.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 70.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 70.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 35.0, "ProRate": 70.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 56.0, "ProRate": 70.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 50.0, "ProRate": 50.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 311, "RoomTypeName": "测试日租房态已满", "RoomTypeCode": "NH", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 100.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 0.0, "ProRate": 0.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 0.01, "ProRate": 0.01, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 0.01, "ProRate": 0.01, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 0.01, "ProRate": 0.01, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 50.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 0.01, "ProRate": 0.01, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 20.0, "ProRate": 20.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 312, "RoomTypeName": "测试整夜房态已满", "RoomTypeCode": "ZY", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 100.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 90.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 90.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 85.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 85.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 50.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 80.0, "ProRate": 100.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 20.0, "ProRate": 20.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 304, "RoomTypeName": "粉红闺蜜立方", "RoomTypeCode": "GM", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 84.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 178.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 298, "RoomTypeName": "汉服换装立方", "RoomTypeCode": "HF", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 178.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 178.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 178.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 178.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 178.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 89.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 178.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 178.0, "ProRate": 178.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 314, "RoomTypeName": "麻将轰趴立方", "RoomTypeCode": "MJ", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 84.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 188.0, "ProRate": 188.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 307, "RoomTypeName": "投影舒睡大床立方", "RoomTypeCode": "TYSS", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 158.0, "ProRate": 158.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 158.0, "ProRate": 158.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 158.0, "ProRate": 158.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 158.0, "ProRate": 158.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 158.0, "ProRate": 158.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 158.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 158.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 79.0, "ProRate": 158.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 158.0, "ProRate": 158.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 138.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 305, "RoomTypeName": "影院大床立方", "RoomTypeCode": "DCF", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 148.0, "ProRate": 148.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 148.0, "ProRate": 148.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 148.0, "ProRate": 148.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 148.0, "ProRate": 148.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 148.0, "ProRate": 148.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 148.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 148.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 74.0, "ProRate": 148.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 148.0, "ProRate": 148.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 148.0, "ProRate": 148.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 297, "RoomTypeName": "影院豪华大床立方", "RoomTypeCode": "TTDC", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 84.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 168.0, "ProRate": 168.0, "AccDate": "2020-12-15 00:00:00"}]}]}, {"ChainID": 440135, "ChainName": "M3立方米酒店", "RoomTypeID": 306, "RoomTypeName": "影院双床立方", "RoomTypeCode": "SCF", "RoomRateTypeItem": [{"RoomRateType": 1, "RoomRateTypeName": "门市价", "RateList": [{"RoomRate": 138.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 2, "RoomRateTypeName": "新立方会员价", "RateList": [{"RoomRate": 138.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3, "RoomRateTypeName": "银立方会员价", "RateList": [{"RoomRate": 138.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 4, "RoomRateTypeName": "金立方会员价", "RateList": [{"RoomRate": 138.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 6, "RoomRateTypeName": "铂金立方会员价", "RateList": [{"RoomRate": 138.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 10, "RoomRateTypeName": "免费房", "RateList": [{"RoomRate": 0.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 14, "RoomRateTypeName": "自用房", "RateList": [{"RoomRate": 0.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 17, "RoomRateTypeName": "内部员工协议", "RateList": [{"RoomRate": 69.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 90, "RoomRateTypeName": "黑立方会员价", "RateList": [{"RoomRate": 138.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}, {"RoomRateType": 3015, "RoomRateTypeName": "整夜房", "RateList": [{"RoomRate": 138.0, "ProRate": 138.0, "AccDate": "2020-12-15 00:00:00"}]}]}]}
+{
+  "State": 200,
+  "ErrMsg": "",
+  "Data": [
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 318,
+      "RoomTypeName": "Switch影院大床立方",
+      "RoomTypeCode": "SD",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 84.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 2764,
+      "RoomTypeName": "标准大床房",
+      "RoomTypeCode": "SK",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 1.0,
+              "ProRate": 1.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 1.0,
+              "ProRate": 1.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 1.0,
+              "ProRate": 1.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 1.0,
+              "ProRate": 1.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 1.0,
+              "ProRate": 1.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 1.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 1.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 1.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 1.0,
+              "ProRate": 1.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 3.0,
+              "ProRate": 3.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 2763,
+      "RoomTypeName": "标准双床房",
+      "RoomTypeCode": "ST",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 70.0,
+              "ProRate": 70.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 63.0,
+              "ProRate": 70.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 63.0,
+              "ProRate": 70.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 60.0,
+              "ProRate": 70.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 60.0,
+              "ProRate": 70.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 70.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 70.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 35.0,
+              "ProRate": 70.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 56.0,
+              "ProRate": 70.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 50.0,
+              "ProRate": 50.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 311,
+      "RoomTypeName": "测试日租房态已满",
+      "RoomTypeCode": "NH",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 100.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 0.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 0.01,
+              "ProRate": 0.01,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 0.01,
+              "ProRate": 0.01,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 0.01,
+              "ProRate": 0.01,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 50.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 0.01,
+              "ProRate": 0.01,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 20.0,
+              "ProRate": 20.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 312,
+      "RoomTypeName": "测试整夜房态已满",
+      "RoomTypeCode": "ZY",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 100.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 90.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 90.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 85.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 85.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 50.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 80.0,
+              "ProRate": 100.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 20.0,
+              "ProRate": 20.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 304,
+      "RoomTypeName": "粉红闺蜜立方",
+      "RoomTypeCode": "GM",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 84.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 178.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 298,
+      "RoomTypeName": "汉服换装立方",
+      "RoomTypeCode": "HF",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 178.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 178.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 178.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 178.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 178.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 89.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 178.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 178.0,
+              "ProRate": 178.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 314,
+      "RoomTypeName": "麻将轰趴立方",
+      "RoomTypeCode": "MJ",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 84.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 188.0,
+              "ProRate": 188.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 307,
+      "RoomTypeName": "投影舒睡大床立方",
+      "RoomTypeCode": "TYSS",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 158.0,
+              "ProRate": 158.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 158.0,
+              "ProRate": 158.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 158.0,
+              "ProRate": 158.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 158.0,
+              "ProRate": 158.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 158.0,
+              "ProRate": 158.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 158.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 158.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 79.0,
+              "ProRate": 158.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 158.0,
+              "ProRate": 158.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 138.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 305,
+      "RoomTypeName": "影院大床立方",
+      "RoomTypeCode": "DCF",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 148.0,
+              "ProRate": 148.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 148.0,
+              "ProRate": 148.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 148.0,
+              "ProRate": 148.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 148.0,
+              "ProRate": 148.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 148.0,
+              "ProRate": 148.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 148.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 148.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 74.0,
+              "ProRate": 148.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 148.0,
+              "ProRate": 148.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 148.0,
+              "ProRate": 148.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 297,
+      "RoomTypeName": "影院豪华大床立方",
+      "RoomTypeCode": "TTDC",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 84.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 168.0,
+              "ProRate": 168.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChainID": 440135,
+      "ChainName": "M3立方米酒店",
+      "RoomTypeID": 306,
+      "RoomTypeName": "影院双床立方",
+      "RoomTypeCode": "SCF",
+      "RoomRateTypeItem": [
+        {
+          "RoomRateType": 1,
+          "RoomRateTypeName": "门市价",
+          "RateList": [
+            {
+              "RoomRate": 138.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 2,
+          "RoomRateTypeName": "新立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 138.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3,
+          "RoomRateTypeName": "银立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 138.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 4,
+          "RoomRateTypeName": "金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 138.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 6,
+          "RoomRateTypeName": "铂金立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 138.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 10,
+          "RoomRateTypeName": "免费房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 14,
+          "RoomRateTypeName": "自用房",
+          "RateList": [
+            {
+              "RoomRate": 0.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 17,
+          "RoomRateTypeName": "内部员工协议",
+          "RateList": [
+            {
+              "RoomRate": 69.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 90,
+          "RoomRateTypeName": "黑立方会员价",
+          "RateList": [
+            {
+              "RoomRate": 138.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        },
+        {
+          "RoomRateType": 3015,
+          "RoomRateTypeName": "整夜房",
+          "RateList": [
+            {
+              "RoomRate": 138.0,
+              "ProRate": 138.0,
+              "AccDate": "2020-12-16 00:00:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

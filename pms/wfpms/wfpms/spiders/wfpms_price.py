@@ -72,9 +72,6 @@ class WfpmsPriceSpider(scrapy.Spider):
         url = f'http://test.wfpms.com:9000/api/GetRoomRate?accbegin={today}&accend={tomorrow}&roomtypeid=0&roomratetype=0&login_chainid=440135&login_shift=A'
         # 解析url
         params = parse.parse_qs(parse.urlparse(url.lower()).query)
-        # 排序
-        # str_list = Sign.para_filter(params)
-        data = Sign.create_link(params)
         data = Sign.create_link(params)
         dtime = int(time.time())
         # 拼接请求
@@ -86,8 +83,6 @@ class WfpmsPriceSpider(scrapy.Spider):
 
     def parse_get_price(self, response):
         content = json.loads(response.text)
-        with open('price.json', 'w', encoding='utf-8') as fp:
-            fp.write(json.dumps(content, ensure_ascii=False))
         price_dict = {}
         # 获取所有房型编号
         RoomTypeID_list = jsonpath.jsonpath(content, '$.Data..RoomTypeID')
@@ -122,7 +117,7 @@ class WfpmsPriceSpider(scrapy.Spider):
                             SilverCube=price_dict['SilverCube'], GoldCube=price_dict['GoldCube'],
                             PlatinumCube=price_dict['PlatinumCube'],
                             BlackCube=price_dict['BlackCube'], AllNight=price_dict['AllNight'],
-                            Remarks=price_dict['Remarks'])
+                            Remarks=price_dict['Remarks'], accbegin=today, accend=tomorrow)
             yield rate
 
 
